@@ -18,5 +18,6 @@ public class MathUtils {
 	}
 	public void greet() {
 		System.out.println("Commit msg");
+		System.out.println("Second commit msg");
 	}
 }
